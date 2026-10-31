@@ -13,13 +13,13 @@ resource?" in one API call. Built for multi-tenant apps.
 
 | Language | Install | Repository |
 | --- | --- | --- |
-| TypeScript / JavaScript | `npm install permio` | [permio-js](https://github.com/PrivateJAR/permio-js) |
-| Python | `pip install permio` | [permio-python](https://github.com/PrivateJAR/permio-python) |
-| Go | `go get github.com/PrivateJAR/permio-go@latest` | [permio-go](https://github.com/PrivateJAR/permio-go) |
-| Rust | `cargo add permio` | [permio-rust](https://github.com/PrivateJAR/permio-rust) |
-| Java | `io.perms:permio` (Maven Central) | [permio-java](https://github.com/PrivateJAR/permio-java) |
+| TypeScript / JavaScript | `npm install permio` | [permio-js](https://github.com/perms-io/permio-js) |
+| Python | `pip install permio` | [permio-python](https://github.com/perms-io/permio-python) |
+| Go | `go get github.com/perms-io/permio-go@latest` | [permio-go](https://github.com/perms-io/permio-go) |
+| Rust | `cargo add permio` | [permio-rust](https://github.com/perms-io/permio-rust) |
+| Java | `io.perms:permio` (Maven Central) | [permio-java](https://github.com/perms-io/permio-java) |
 
 ## Tools
 
-- **CLI:** `npm install -g permio-cli` or `brew install PrivateJAR/tap/permio`
+- **CLI:** `npm install -g permio-cli` or `brew install perms-io/tap/permio`
 - **MCP server** for AI assistants: `https://mcp.perms.io/mcp`
