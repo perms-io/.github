@@ -17,6 +17,7 @@ resource?" in one API call. Built for multi-tenant apps.
 | Python | `pip install permio` | [permio-python](https://github.com/PrivateJAR/permio-python) |
 | Go | `go get github.com/PrivateJAR/permio-go@latest` | [permio-go](https://github.com/PrivateJAR/permio-go) |
 | Rust | `cargo add permio` | [permio-rust](https://github.com/PrivateJAR/permio-rust) |
+| Java | `io.perms:permio` (Maven Central) | [permio-java](https://github.com/PrivateJAR/permio-java) |
 
 ## Tools
 
